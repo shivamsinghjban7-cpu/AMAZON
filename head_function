@@ -1,0 +1,6 @@
+it will point the latest commit ID
+if we will move head in any other position then it will show the all the files available at that point of time.
+IT takes the backup of the file when vommit id created.[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[c[B[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+we can change the head position by
+
+git checkout commit id>[D[D[D[D[D[D[D[D[D[D<commit id>
